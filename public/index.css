@@ -1,0 +1,121 @@
+span.acceleration:after {
+	content: "\33A8";
+}
+span.gyro:after {
+	content: " dps";
+}
+span.mag:after {
+	content: " gauss";
+}
+
+span.height:after {
+	content: "m";
+}
+span.speed:after {
+	content: "\33A7";
+}
+
+span.x:before {
+	content: "x: ";
+}
+span.y:before {
+	content: "y: ";
+}
+span.z:before {
+	content: "z: ";
+}
+
+span.status.disconnected {
+	color: grey;
+}
+span.status.connected {
+	color: green;
+}
+span.status.error {
+	color: red;
+}
+span.status.test {
+	color: purple;
+}
+
+span.battery.unknown {
+	color: grey;
+}
+span.battery.high {
+	color: green;
+}
+span.battery.medium {
+	color: yellow;
+}
+span.battery.low {
+	color:red;
+}
+
+h2 {
+	font-size: 1em;
+}
+
+div.main {
+	background-color: #f0f0f0;
+}
+
+section {
+	margin: 1em;
+	background-color: #dedede;
+	padding: 1%;
+}
+
+section.cardContainer {
+	display: flex;
+}
+
+section.cardContainer > section {
+	flex: 1;
+}
+
+section section, section details {
+	margin: 1em;
+	background-color: #f0f0f0;
+	padding: .5%;
+}
+
+section section section {
+	margin: 0em;
+	padding: 0;
+}
+
+div.records {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+
+div.records span {
+	padding: .125em;
+}
+
+div.liveView {
+	display: flex;
+	flex-direction: column;
+}
+
+div.recordContainer {
+	display: flex;
+	flex-direction: row;
+	align-content: space-around;
+}
+
+table {
+	overflow: auto;
+	display: block;
+	height: 250px;
+}
+
+thead > td {
+	text-align: center;
+	font-weight: bold;
+}
+
+td {
+	padding: .25em;
+}

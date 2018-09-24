@@ -1,0 +1,89 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href='index.css' />
+    <title>BarStats - Tracking Barbell Information via Bluetooth</title>
+
+    <!-- 3p js -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/idb@2.1.3/lib/idb.js"></script>
+
+    <!-- to-be compiled js -->
+    <script type="text/javascript" src="src/js/views.js"></script>
+    <script type="text/javascript" src="src/js/record.js"></script>
+    <script type="text/javascript" src="src/js/ble.js"></script>
+    <!-- remove this once we have mocha -->
+    <script type="text/javascript" src="src/js/record.test.js"></script>
+
+    <script type="text/javascript" src="index.js"></script>
+</head>
+
+
+<body>
+    <header>
+        <h1>BarStats</h1>
+    </header>
+
+    <nav>
+        <div id="lifter"></div>
+        <div id="page-options"></div>
+    </nav>
+
+    <main>
+        <section id="hardware" class="cardContainer">
+            <h1>Hardware</h1>
+            <section id="connection">
+                <h2>Connection</h2>
+                <p>Connection status: <span id="connectionStatus" class="status disconnected">disconnected</span></p>
+                <div id="connectionControls">
+                    <input type="text" placeholder="Exact name" value="Adafruit">
+                    <button id="connectButton" class="scan inactive">Connect</button>
+                </div>
+            </section>
+            <section id="info">
+                <h2>Hardware Info</h2>
+                <p>Battery level: <span id="batteryLevel" class="battery unknown">unknown</span></p>
+            </section>
+        </section>
+
+        <section id="lifts">
+            <h1>Bar info</h1>
+            <section id="liveData">
+                <div id="live" class="liveView"></div>
+            </section>
+
+            <section id="lifts">
+                <h1>Lifts</h1>
+                <section id="liftControls" class="controls">
+                    <h2>Lift controls</h2>
+                    <button id="start">Start</button>
+                    <button id="stop">Stop</button>
+                    </div>
+
+                    <section id="charts">
+                        <details id="accelCharts">
+                            <summary>Acceleration charts</summary>
+                        </details>
+
+                        <details id="gyroCharts">
+                            <summary>Gyroscope charts</summary>
+                        </details>
+
+                        <details id="magCharts">
+                            <summary>Magnometer charts</summary>
+                        </details>
+                    </section>
+
+                    <details id="last" class="">
+                        <summary>Previous lift datapoints</summary>
+                        <table></table>
+                    </details>
+                </section>
+            </section>
+    </main>
+</body>
+<footer></footer>
+
+</html>
