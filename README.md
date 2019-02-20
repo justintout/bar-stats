@@ -11,6 +11,8 @@ development. `server.js` is inlcuded to do this.
 
 ### Chip
 Adafruit Feather M0
+![Alt text](https://images-na.ssl-images-amazon.com/images/I/61M%2BSYLOIjL.jpg)
+
 
 ### Data
 - Accel (x, y, z) (m/s^2) 
