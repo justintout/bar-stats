@@ -26,7 +26,7 @@ Generic wire :)
 
 ### Mounting
 Generic Barbell Collar 
-![Alt text](https://images-na.ssl-images-amazon.com/images/I/61FC2WZ4BIL._SL1500_.jpg)
+![Alt text](https://images-na.ssl-images-amazon.com/images/I/61FC2WZ4BIL._SL1500_.jpg =250x250)
 [BUY HERE](https://www.amazon.com/Clout-Fitness-Release-Locking-Training/dp/B07J6PMXGM/ref=asc_df_B07J6PMXGM/?tag=hyprod-20&linkCode=df0&hvadid=309806240144&hvpos=1o1&hvnetw=g&hvrand=12928086070966510408&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015334&hvtargid=pla-638893583461&psc=1)
 
 Mounting Hardware Spacer Rubber Standoffs 
