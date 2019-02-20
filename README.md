@@ -11,7 +11,8 @@ development. `server.js` is inlcuded to do this.
 
 ### Electronics
 Adafruit Feather M0
-![Alt text](https://images-na.ssl-images-amazon.com/images/I/71pdmuGB1lL._SL1200_.jpg)
+ <img src="https://images-na.ssl-images-amazon.com/images/I/71pdmuGB1lL._SL1200_.jpg" width="256" height="256" title="TEST">
+
 [BUY HERE](https://www.amazon.com/Bluetooth-802-15-1-Development-Adafruit-Bluefruit/dp/B01E1RESIM/ref=sr_1_1_sspa?s=electronics&ie=UTF8&qid=1550664175&sr=1-1-spons&keywords=Adafruit+Feather+M0+bluetooth&psc=1)
 
 1578 Lithium Ion Polymer Battery - 3.7v 500mAh 
