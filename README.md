@@ -10,8 +10,9 @@ development. `server.js` is inlcuded to do this.
 ## Hardware
 
 ### Electronics
- <img src="https://images-na.ssl-images-amazon.com/images/I/71pdmuGB1lL._SL1200_.jpg" width="250" height="250" title="Adafruit Feather M0">
+ <img src="https://images-na.ssl-images-amazon.com/images/I/71pdmuGB1lL._SL1200_.jpg" width="50%" height="50%" title="Adafruit Feather M0">
 Adafruit Feather M0
+
 [BUY HERE](https://www.amazon.com/Bluetooth-802-15-1-Development-Adafruit-Bluefruit/dp/B01E1RESIM/ref=sr_1_1_sspa?s=electronics&ie=UTF8&qid=1550664175&sr=1-1-spons&keywords=Adafruit+Feather+M0+bluetooth&psc=1)
 
  <img src="https://images-na.ssl-images-amazon.com/images/I/41Sx-MRiXaL.jpg" width="250" height="250" title="Lithium Ion Polymer Battery">
@@ -26,8 +27,9 @@ Adafruit 9-DOF Accel/Mag/Gyro+Temp - LSM9DS1
 
 ### Mounting
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61FC2WZ4BIL._SL1500_.jpg" width="250" height="250" title="Barbell Collar">
-Barbell Collar 
+<img src="https://images-na.ssl-images-amazon.com/images/I/61FC2WZ4BIL._SL1500_.jpg" width="25%" height="25%" title="Barbell Collar">
+Barbell Collar
+
 [BUY HERE](https://www.amazon.com/Clout-Fitness-Release-Locking-Training/dp/B07J6PMXGM/ref=asc_df_B07J6PMXGM/?tag=hyprod-20&linkCode=df0&hvadid=309806240144&hvpos=1o1&hvnetw=g&hvrand=12928086070966510408&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015334&hvtargid=pla-638893583461&psc=1)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/511MHOtF7OL._SL1000_.jpg" width="250" height="250" title="Rubber Standoffs">
