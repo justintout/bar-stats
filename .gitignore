@@ -4,3 +4,4 @@ https/
 .vscode/
 .local-https/
 .server.PID
+.DS_Store
